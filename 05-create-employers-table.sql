@@ -6,5 +6,5 @@ CREATE TABLE employers (
 
   yearly_revenue NUMERIC(5,2), -- Exact value, Allowed: 123.12, Not allowed: 12345.123
 
-  is_hiring BOOLEAN 
+  is_hiring BOOLEAN DEFAULT FALSE
 );
