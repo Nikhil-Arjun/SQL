@@ -7,22 +7,8 @@
       "askForPassword": true,
       "driver": "PostgreSQL",
       "name": "postgre1",
-      "database": "talently",
+      "database": "online_shop",
       "username": "postgres"
-    },
-    {
-      "mysqlOptions": {
-        "authProtocol": "default",
-        "enableSsl": "Disabled"
-      },
-      "previewLimit": 50,
-      "server": "localhost",
-      "port": 3306,
-      "driver": "MySQL",
-      "name": "mysql_connection",
-      "database": "default",
-      "username": "root",
-      "askForPassword": true
     }
   ]
 }
