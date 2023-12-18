@@ -18,3 +18,6 @@
 --   ('Julie', 'Barnes', 'julie@barnes.com', 3),
 --   ('Pradip', 'Dev', 'pradip@test.com',4);
 
+SELECT * FROM Users;
+SELECT * FROM addresses;
+-- SELECT * FROM cities;
