@@ -1,3 +1,8 @@
+-- DROP TABLE Users;
+-- DROP TABLE addresses;
+-- DROP TABLE cities;
+
+
 CREATE TABLE Users (
   id SERIAL PRIMARY KEY,
   first_name VARCHAR(255) NOT NULL,
@@ -18,3 +23,5 @@ CREATE TABLE Cities(
   id SERIAL PRIMARY KEY,
   name VARCHAR(300) NOT NULL
 );
+
+-- SELECT * FROM Users;
