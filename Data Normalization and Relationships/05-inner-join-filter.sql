@@ -9,6 +9,6 @@ ON a.city_id = c.id
 -- WHERE c.name = 'Mumbai';
 
 -- using city id
-WHERE c.id = 3 or c.id = 1;
+-- WHERE c.id = 3 or c.id = 1
 ORDER BY u.id DESC;
 
