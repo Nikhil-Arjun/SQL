@@ -34,4 +34,4 @@ ORDER BY address_id;
 
 -- So What about Right Join ?
 
-It's similar to Left-join keyword just order of tables changes and we can expect similar results which we get from the Left JOIN Keyword.
+-- It's similar to Left-join keyword just order of tables changes and we can expect similar results which we get from the Left JOIN Keyword.
