@@ -20,4 +20,4 @@
 
 -- SELECT * FROM Users;
 -- SELECT * FROM addresses;
-SELECT * FROM cities;
+-- SELECT * FROM cities;
